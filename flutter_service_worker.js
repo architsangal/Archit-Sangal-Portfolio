@@ -35,12 +35,12 @@ const RESOURCES = {
 "assets/packages/fluttericon/lib/fonts/Octicons.ttf": "7242d2fe9e36eb4193d2bc7e521779bf",
 "assets/packages/fluttericon/lib/fonts/Zocial.ttf": "c29d6e34d8f703a745c6f18d94ce316d",
 "version.json": "9a4dddba415c9ee5265cd5f5d9963a6a",
-"main.dart.js": "c6f5e4d52b6fa5effd1f89df4a7dec69",
+"main.dart.js": "fad21760ac3105d3c40e5eef35d2b9fc",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "d38dac9c59f5d6e0bdec4a4e76bf84fb",
-"/": "d38dac9c59f5d6e0bdec4a4e76bf84fb",
+"index.html": "e62ac258b7d55ba0aade08b79bd424f3",
+"/": "e62ac258b7d55ba0aade08b79bd424f3",
 "manifest.json": "16903bfeca52a82e56468f3d1cf29796"
 };
 
